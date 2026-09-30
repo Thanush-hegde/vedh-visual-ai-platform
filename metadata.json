@@ -1,0 +1,8 @@
+{
+  "name": "Vedh Visual AI Platform",
+  "description": "Visual AI skill development platform for students, teachers, institutions, and professionals with concept visualizer, attendance tracker, and mentoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
